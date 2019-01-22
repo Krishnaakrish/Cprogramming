@@ -1,19 +1,11 @@
 #include <stdio.h>
-
-void main()
-
+main()
 {
-    
-int n, i, sum = 0;
-    
+int n, i, sum = 0;    
 scanf("%d",&n);
-    
 for(i=1; i <= n;i++)
-    
-{
-        
-sum+=i;   
-    
+{        
+sum+=i;      
 }
     
 printf("%d",sum);
