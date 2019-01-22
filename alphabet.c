@@ -1,8 +1,5 @@
  #include <stdio.h>
-
-
 int main()
-
 {
 
 char ch;
@@ -15,7 +12,7 @@ printf("Alphabet");
   
 else
     
-printf("Not an Alphabet");
+printf("No");
   
 return 0;
 
