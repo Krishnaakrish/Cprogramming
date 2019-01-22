@@ -15,11 +15,11 @@ if (a>=b)
         
 if(a>=c)
             
-printf("a is the largest number.");
+printf("%d",a);
         
 else
             
-printf("c is the largest number.");
+printf("%d",c);
     
 }
     
@@ -29,11 +29,11 @@ else
         
 if(b>=c)
             
-printf("b is the largest number.");
+printf("%d",b);
         
 else
             
-printf("c is the largest number.");
+printf("%d",c);
     
 }
     
