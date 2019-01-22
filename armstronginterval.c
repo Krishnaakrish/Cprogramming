@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+main()
 
 {    
 int a, b, i, temp1, temp2, rem, n = 0, result = 0;
