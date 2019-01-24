@@ -28,16 +28,16 @@ int main()
         }
         if(len==count)
         {
-            printf("Isomorphic");
+            printf("yes");
         }
         else
         {
-        printf("Not Isomorphic");
+        printf("no");
     }
     }
     else
         {
-        printf("Not Isomorphic");
+        printf("no");
     }
     getch();
 }
