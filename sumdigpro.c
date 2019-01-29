@@ -5,7 +5,7 @@ int rem,sum=0;
 while(n)
 {
 rem=n%10;
-sum=+=rem;
+sum+=rem;
 n/=10;
 }
 return sum;
