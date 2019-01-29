@@ -22,8 +22,9 @@ else{
 k=800;
 for(i=0;k<n;i++)
 {
-k+=i;
+if(i!=0)
 printf("%d ",fun(k));
+k+=i;
 i++;
 }
 }
