@@ -7,7 +7,7 @@ void main()
 	scanf("%d",&num);
 	if(num%2==0)
 	{
-		even=num-2;	
+		even=num;	
 	}
 	else
 	{
