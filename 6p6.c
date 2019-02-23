@@ -2,8 +2,8 @@
 #include <stdio.h>
 void main()
 {
-	char a[50],b,c=0;
-	int i;
+	char a[50],b;
+	int i,c=0;
 	
 	gets(a);
 	scanf("%c",&b);
