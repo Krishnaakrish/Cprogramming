@@ -1,8 +1,8 @@
 #include <stdio.h>
-main()
+void main()
 {
     char a[50];
-    int i,c,j;
+    int c,i,j;
     scanf("%[^\n]",&a);
     for(i=0;a[i]!='\0';i++)
     {
