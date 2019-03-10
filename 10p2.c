@@ -6,9 +6,9 @@ void main()
     while(a>0)
     {
         rem=a%10;
-        dec=dec+rem*p;
-        p=p*2;
-        a=a/10;
+        dec+=rem*p;
+        p*=2;
+        a/=10;
     }
     printf("%ld",dec);
 }   
