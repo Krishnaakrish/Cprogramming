@@ -7,8 +7,8 @@ void main()
     t=n;
     while(t>0)
     {
-        t=t/10;
-        c=c*10;
+        t/=10;
+        c*=10;
     }
     c=c/10;
         a=n/c;
